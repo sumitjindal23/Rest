@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: sumjinda
+Class-Path: FCLiteUtility-1.0.jar commons-beanutils-1.9.3.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+

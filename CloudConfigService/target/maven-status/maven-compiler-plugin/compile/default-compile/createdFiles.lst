@@ -1,0 +1,5 @@
+com\ofss\config\handler\CloudConfigHandler.class
+com\ofss\config\provider\EntityManagerProvider.class
+com\ofss\config\model\ResourceConfig.class
+com\ofss\config\service\CloudConfigService.class
+com\ofss\config\util\CloudConfigApplication.class
